@@ -260,7 +260,7 @@ ext{
                      and Parcelable machinery
      */
     butterknifeVersion = '8.0.0'
-    daggerVersion = '2.0.2'
+    daggerVersion = '2.2'
     javaxinjectionVersion = '1'
     javaxannotationVersion = '1.0'
     autoparcelVersion = '0.3.1'
