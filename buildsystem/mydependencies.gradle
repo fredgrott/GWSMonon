@@ -571,6 +571,7 @@ ext{
     decorVersion = '2.4'
     processphoenixVersion = '1.0.2'
     threaddecoratedviewVersion = '1.5.2'
+    transitionseverywhereVersion = '1.6.3'
 
     threetenabpVersion = '1.0.3'
 
@@ -602,7 +603,8 @@ ext{
             threaddecoratedviewCompiler:"me.panavtec:threaddecoratedview-compiler:$threaddecoratedviewVersion",
             //compile
             threaddecoratedview:"me.panavtec:threaddecoratedview-common:$threaddecoratedviewVersion",
-            threetenabp:"com.jakewharton.threetenabp:thretenabp:$threetenabpVersion"
+            threetenabp:"com.jakewharton.threetenabp:thretenabp:$threetenabpVersion",
+            transtionseverywhere:"com.andkulikov:transtionseverywhere:$transitionseverywhereVersion"
     ]
 
 

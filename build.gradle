@@ -114,9 +114,10 @@ buildscript {
         classpath 'com.frogermcs.androiddevmetrics:androiddevmetrics-plugin:0.3.1'
 
         /*
-                        RetroLambda Gradle Plugin allows me to use lambdas
+                        RetroLambda Gradle Plugin allows me to use lambdas, these plugins must ne
+                        listed after the apt plugin
 
-        Yes, that means committing to using retrolambda and lombok in both app and library modules
+
         */
         classpath 'me.tatarka:gradle-retrolambda:3.2.5'
         classpath 'me.tatarka.retrolambda.projectlombok:lombok.ast:0.2.3.a2'
